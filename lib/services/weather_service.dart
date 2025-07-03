@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import '../models/weather_model.dart';
 
 class WeatherService {
-  final String apiKey = "723e6550cf27d273da5260fd0944cef7";
+  final String apiKey = "YOUR API KEYS";
 
   Future<Map<String, dynamic>> getCoordinates(String cityName) async {
     final geoUrl = Uri.parse(
