@@ -1,16 +1,34 @@
-# weather_app
+# WeatherApp
+A simple weather application developed using Flutter. It features a user-friendly interface that displays weather information for cities in Turkey.
 
-A new Flutter project.
+## Features
+* View current weather by selecting a city
 
-## Getting Started
+* Weather forecast for all 81 cities in Turkey
 
-This project is a starting point for a Flutter application.
+* Add and access favorite cities easily
 
-A few resources to get you started if this is your first Flutter project:
+* Clean and user-friendly UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Hourly and 7-day weather forecast display
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Applications Image
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/Main_Menu.jpg" width="200"/><br>
+      <sub><b>Main Menu</b></sub>
+    </td>
+        <td align="center">
+      <img src="images/Show_wheather.jpg" width="200"/><br>
+      <sub><b>Show Wheather</b></sub>
+    </td>
+
+## Setup
+* Install the required packages:
+
+flutter pub get
+
+* Run the application:
+
+flutter run
