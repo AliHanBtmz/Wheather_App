@@ -13,6 +13,7 @@ A simple weather application developed using Flutter. It features a user-friendl
 * Hourly and 7-day weather forecast display
 
 ## Applications Image
+
 <table align="center">
   <tr>
     <td align="center">
@@ -23,12 +24,14 @@ A simple weather application developed using Flutter. It features a user-friendl
       <img src="images/Show_wheather.jpeg" width="200"/><br>
       <sub><b>Show Wheather</b></sub>
     </td>
+  </tr>
+</table>
 
 ## Setup
-* Install the required packages:
+1- Install the required packages:
 
 flutter pub get
 
-* Run the application:
+2- Run the application:
 
 flutter run
