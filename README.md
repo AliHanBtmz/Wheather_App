@@ -16,11 +16,11 @@ A simple weather application developed using Flutter. It features a user-friendl
 <table align="center">
   <tr>
     <td align="center">
-      <img src="images/Main_Menu.jpg" width="200"/><br>
+      <img src="images/Main_menu.jpeg" width="200"/><br>
       <sub><b>Main Menu</b></sub>
     </td>
         <td align="center">
-      <img src="images/Show_wheather.jpg" width="200"/><br>
+      <img src="images/Show_wheather.jpeg" width="200"/><br>
       <sub><b>Show Wheather</b></sub>
     </td>
 
